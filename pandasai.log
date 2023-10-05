@@ -1,0 +1,14 @@
+2023-07-30 21:55:49 [INFO] Question: what sex was most likely to have survived?
+2023-07-30 21:55:49 [INFO] Running PandasAI with openai LLM...
+2023-07-30 21:55:49 [INFO] Prompt ID: 10711f93-eb32-47f5-9ebc-4abacccc4e29
+2023-07-30 21:56:31 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025816AD1300>, 'Connection to api.openai.com timed out. (connect timeout=600)')': /v1/chat/completions
+2023-07-30 21:56:39 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-07-30 21:59:46 [INFO] Question: what sex was most likely to have survived?
+2023-07-30 21:59:46 [INFO] Running PandasAI with openai LLM...
+2023-07-30 21:59:46 [INFO] Prompt ID: 6384a253-f39f-4708-a3a5-409ce1402770
+2023-07-30 22:00:28 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025816AD0670>, 'Connection to api.openai.com timed out. (connect timeout=600)')': /v1/chat/completions
+2023-07-30 22:00:44 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-07-30 22:09:53 [INFO] Question: Plot the histogram of countries showing for each the gdp, using different colors for each bar
+2023-07-30 22:09:53 [INFO] Running PandasAI with openai LLM...
+2023-07-30 22:09:53 [INFO] Prompt ID: 958dd9fe-bc45-49cd-8604-a83d1b2b5412
+2023-07-30 22:10:09 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
